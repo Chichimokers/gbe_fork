@@ -1,6 +1,5 @@
 # IDE
 **/.vs
-**/.vscode
 
 # PYTHON
 **/.venv
@@ -30,3 +29,5 @@
 /tools/migrate_gse/.py*/
 /tools/migrate_gse/.env*/
 /tools/migrate_gse/bin
+config.bat
+node_modules
